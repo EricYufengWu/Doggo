@@ -11,7 +11,7 @@
 
 // Initialize SD card pin, file on card, and IMU Project
 File file;
-SdFatSdio sd;
+SdFat sd;
 
 char fileName;
 
